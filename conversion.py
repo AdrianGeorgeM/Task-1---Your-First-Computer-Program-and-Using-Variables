@@ -1,5 +1,14 @@
 # Pseudocode:
-# 1. Initialize num1 with a float value
+# Begin
+# Declare num1 as float
+# Declare num2 as integer
+# Declare num3 as integer
+# Declare string1 as string
+# Convert num1 to integer
+# Convert num2 to float
+# Convert num3 to string
+# Convert string1 to integer
+# End
 num1 = 99.23
 
 # 2. Initialize num2 with an integer value
